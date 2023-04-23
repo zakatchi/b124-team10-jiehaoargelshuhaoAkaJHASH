@@ -49,17 +49,6 @@ wordcloud
 Make sure to install the required libraries before running the code.
 
 
-
-**Dependencies**
-
-The code requires the following libraries:
-os
-tensorflow
-cv2
-numpy
-pandas
-matplotlib
-
 ## Conclusion
 - IMDB rating has the highest correlation with Meta score, with a positive Goodness of Fit (R-squared) and high classification accuracy for both train and test sets, indicating a positive correlation between IMDB rating and Meta score.
 - Certificate (age rating) has a small correlation with Meta score, as there is a slight increase in Meta score for movies suitable for all ages compared to movies with more restrictive age ratings.
@@ -70,7 +59,7 @@ matplotlib
 1. Acquired knowledge on the interconnectedness between jupyter notebook, VSCode and GitHub.
 2. Learnt about the functionalities of the programs stated above. 
 3. Soft skills - learnt how to present a DSAI project in a structured, articulate manner, training us for our professional capacities in the future. 
-4. Performing Data Prep, Cleaning and EDA on a relatively large textual dataset.
+4. Performing Data Prep, Cleaning and EDA and Supervised statistical analysis on a relatively large textual dataset.
 6. An understanding of APIs and its documentation.
 
 ## Contributions
