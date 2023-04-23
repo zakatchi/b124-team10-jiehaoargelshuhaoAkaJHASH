@@ -10,9 +10,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/harshitshankhdhar
 
 # Contributors
 
-@ ShuHao
-@ JieHao   
-@ Argel   
+@ ShuHao @ JieHao @ Argel   
 
 # Motivations and Problem Statement for Determining Meta Score
 
